@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\bin\Debug\net6.0\c-sharp-overloading.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\bin\Debug\net6.0\c-sharp-overloading.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\bin\Debug\net6.0\c-sharp-overloading.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\bin\Debug\net6.0\c-sharp-overloading.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\bin\Debug\net6.0\c-sharp-overloading.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\obj\Debug\net6.0\c-sharp-overloading.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\obj\Debug\net6.0\c-sharp-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\obj\Debug\net6.0\c-sharp-overloading.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\obj\Debug\net6.0\c-sharp-overloading.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\obj\Debug\net6.0\c-sharp-overloading.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\obj\Debug\net6.0\c-sharp-overloading.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\obj\Debug\net6.0\refint\c-sharp-overloading.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\obj\Debug\net6.0\c-sharp-overloading.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\obj\Debug\net6.0\c-sharp-overloading.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-overloading\c-sharp-overloading\obj\Debug\net6.0\ref\c-sharp-overloading.dll
